@@ -9,6 +9,7 @@
       dan zal ik u op termijn uwe naam leren schrijven ... {name}?!
     </p>
   {/if}
+  <img src="img/echo.jpeg" alt="echo van de baby" />
 </main>
 
 <style>
